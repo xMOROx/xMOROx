@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1000&color=1363DF&center=true&width=435&height=100&lines=Hello+I'm+Patryk+%F0%9F%91%8B;Learning+Web+Developer)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?   font=Roboto&duration=2000&pause=1000&color=1363DF&center=true&width=435&height=100&lines=Hello+I'm+Patryk+%F0%9F%91%8B;Learning+Web+Developer)](https://git.io/typing-svg) 
+</div>
 
 * * *
 
@@ -12,7 +14,9 @@
 
 * * *
 
-![stats graph](https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=xMOROx) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx)
+<div align="center">
+  ![stats graph](https://github-readme-stats.vercel.app/api?  hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=xMOROx) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx)
+</div>
 
 * * *
 
