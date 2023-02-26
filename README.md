@@ -28,12 +28,16 @@
 
 * * *
 
-<div align="center">
-  ![stats graph](https://github-readme-stats.vercel.app/api?  hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=xMOROx) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx)
-</div>
+![stats graph](https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=xMOROx) 
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx)
 
 * * *
 
-<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg"> ![github-snake](github-contribution-grid-snake-dark.svg)</picture> </div>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg"> 
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg"> 
+    ![github-snake](github-contribution-grid-snake-dark.svg)
+  </picture> 
+</div>
 ###
