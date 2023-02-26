@@ -2,11 +2,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1000&color=1363DF&center=true&width=435&height=100&lines=Hello I'm Patryk+%F0%9F%91%8B;Learning+Web+Developer" alt="Typing SVG" /></a>
 </div>
 
+<hr />
 
 ###
 
 <br clear="both">
-<h1> Technologies </h1>
+<h1> Languages and Tools </h1>
+<hr />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="62" alt="typescript logo"  />
@@ -29,7 +31,7 @@
 ###
 
 
-
+<hr />
 
 
 <div align="center">
@@ -37,6 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx" height="150" alt="languages graph"  />
 </div>
 
+<hr />
 
 <div align="center"> 
   <picture>
