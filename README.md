@@ -32,12 +32,5 @@
 ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx)
 
 * * *
+![github-snake](github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg"> 
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg"> 
-    ![github-snake](github-contribution-grid-snake-dark.svg)
-  </picture> 
-</div>
-###
