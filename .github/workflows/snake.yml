@@ -29,7 +29,7 @@ jobs:
           path: output
       - name: copy output files
         run: |
-          cp github-contribution-grid-snake-dark.svg?palette=github-dark output/
+          cp github-contribution-grid-snake-dark.svg output/
           cp github-contribution-grid-snake.svg output/
       - name: commit and push output files
         uses: EndBug/add-and-commit@v7
