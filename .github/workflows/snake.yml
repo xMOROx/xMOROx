@@ -22,11 +22,26 @@ jobs:
           outputs: | 
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: checkout output branch
+        uses: actions/checkout@v2
         with:
-          target_branch: output
-          build_dir: dist
+          ref: output
+          path: output
+      - name: copy output files
+        run: |
+          cp dist/github-contribution-grid-snake-dark.svg?palette=github-dark output/
+          cp dist/github-contribution-grid-snake.svg output/
+      - name: commit and push output files
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "Update snake animation"
+          add: "output/"
+          author_email: "actions@github.com"
+          author_name: "GitHub Actions"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: push to output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
