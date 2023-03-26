@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: xMOROx
           outputs: | 
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
       - name: checkout output branch
         uses: actions/checkout@v2
         with:
@@ -29,8 +29,8 @@ jobs:
           path: output
       - name: copy output files
         run: |
-          cp dist/github-contribution-grid-snake-dark.svg?palette=github-dark output/
-          cp dist/github-contribution-grid-snake.svg output/
+          cp github-contribution-grid-snake-dark.svg?palette=github-dark output/
+          cp github-contribution-grid-snake.svg output/
       - name: commit and push output files
         uses: EndBug/add-and-commit@v7
         with:
