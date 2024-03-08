@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,rust" />
+    <img src="https://skillicons.dev/icons?i=rust" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" />
     <img height="50" src="images/julia.png" alt="Julia" title="Julia" />
   </a>
