@@ -18,7 +18,8 @@
 * * *
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xMOROx&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&background=45%2C0D63D9C5%2CCF27CEBD" alt="GitHub Streak" /></a>
+<!--- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xMOROx&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&background=45%2C0D63D9C5%2CCF27CEBD" alt="GitHub Streak" /></a> --->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xMOROx&theme=tokyonight-duo&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
 
 * * *
