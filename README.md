@@ -18,8 +18,7 @@
 * * *
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=xMOROx" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=xMOROx" height="150" alt="languages graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xMOROx&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&background=45%2C0D63D9C5%2CCF27CEBD" alt="GitHub Streak" /></a>
 </div>
 
 * * *
