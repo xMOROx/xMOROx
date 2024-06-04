@@ -8,12 +8,19 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,java,git,js,ts,html,css,angular,py,linux,firebase,vscode,idea,neovim,vim,mysql" />
+    <img src="https://skillicons.dev/icons?i=rust,c,postman,git,js,ts,html,css,mongodb,angular,py,java,spring,hibernate,linux,firebase,vscode,idea,neovim,vim,mysql,postgresql" />
   </a>
 </p>
 
 ###
 
+# I am currently learning:
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,scss" />
+  </a>
+</p>
 
 * * *
 
