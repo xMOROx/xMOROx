@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,scss" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,scss" />
   </a>
 </p>
 
