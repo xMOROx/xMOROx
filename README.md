@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,postman,git,js,ts,html,css,mongodb,angular,py,java,spring,hibernate,linux,firebase,vscode,idea,neovim,vim,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=rust,c,postman,git,js,ts,html,css,mongodb,docker,angular,py,java,spring,linux,vscode,idea,neovim,vim,mysql,postgresql" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,scss" />
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,gcp,jenkins,terraform" />
   </a>
 </p>
 
