@@ -1,35 +1,60 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1000&color=1363DF&center=true&width=435&height=100&lines=Hello I'm Patryk+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
-<br />
+# Hi there
 
-# I have worked with
+Backend & DevOps Engineer focused on building scalable cloud solutions and robust automation pipelines.
 
-<br />
-<p align="center">
+- 🛠️ **Core Tech:** Java, Spring Boot, GCP & Kubernetes, Github & Github Actions
+- 🚀 **Currently exploring:** Go, Ansible, Terraform & Advanced CI/CD
+- ⚙️ **Editor of choice:** Neovim / Vim (and JetBrains when heavy lifting is needed)
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🖥️ Core Expertise
+<p align="left">
+  <!-- Languages & Frameworks -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,postman,git,js,ts,html,css,mongodb,docker,angular,py,java,spring,linux,vscode,idea,neovim,vim,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,bash" alt="Languages & Frameworks" />
+  </a>
+  <!-- Cloud & DevOps -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform,ansible" alt="Cloud & DevOps" />
+  </a>
+  <!-- CI/CD & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,git,maven,jenkins" alt="CI/CD & Tools" />
+  </a>
+  <!-- Databases -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,oracle" alt="Databases" />
   </a>
 </p>
 
-###
-
-# I am currently learning:
-<br />
-<p align="center">
+### 🔍 Familiar With / Secondary Skills
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kubernetes,gcp,jenkins,terraform" />
+    <img src="https://skillicons.dev/icons?i=c,rust,py,js,ts,html,css,mongodb,postgres,aws,kafka" alt="Familiar With" />
   </a>
 </p>
 
-* * *
+### 🎯 Currently Learning & Improving
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,nix" alt="Learning" />
+  </a>
+</p>
 
-<div align="center">
-<!--- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xMOROx&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&background=45%2C0D63D9C5%2CCF27CEBD" alt="GitHub Streak" /></a> --->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xMOROx&theme=tokyonight-duo&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
-</div>
+---
 
-* * *
+## 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=xMOROx&theme=tokyonight-duo&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br />
 
 <div align="center">
   <picture>
