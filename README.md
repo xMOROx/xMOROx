@@ -33,7 +33,7 @@ Backend & DevOps Engineer focused on building scalable cloud solutions and robus
 ### 🔍 Familiar With / Secondary Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,py,js,ts,html,css,mongodb,postgres,aws,kafka" alt="Familiar With" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,rust,mongodb,postgres,aws,kafka" alt="Familiar With" />
   </a>
 </p>
 
